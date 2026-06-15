@@ -1,0 +1,50 @@
+# Components Required
+
+## User Node
+
+| Component                    | Quantity |
+| ---------------------------- | -------- |
+| ESP32 DevKit V1              | 1        |
+| SX1278 LoRa Module (433 MHz) | 1        |
+| 433 MHz Antenna              | 1        |
+| Li-ion Battery               | 1        |
+| Mobile Phone (GPS Source)    | 1        |
+
+---
+
+## Relay Node
+
+| Component                    | Quantity |
+| ---------------------------- | -------- |
+| ESP32 DevKit V1              | 1        |
+| SX1278 LoRa Module (433 MHz) | 1        |
+| 433 MHz Antenna              | 1        |
+| Power Supply / Battery       | 1        |
+
+---
+
+## Base Station
+
+| Component                        | Quantity |
+| -------------------------------- | -------- |
+| ESP32 DevKit V1                  | 1        |
+| SX1278 LoRa Module (433 MHz)     | 1        |
+| 433 MHz Antenna                  | 1        |
+| Laptop/PC (Monitoring Dashboard) | 1        |
+| Power Supply                     | 1        |
+
+---
+
+# Total Hardware Components
+
+| Component                    | Quantity |
+| ---------------------------- | -------- |
+| ESP32 DevKit V1              | 3        |
+| SX1278 LoRa Module (433 MHz) | 3        |
+| 433 MHz Antenna              | 3        |
+| USB Cables                   | 3        |
+| Breadboards                  | 3        |
+| Jumper Wires (Male-Female)   | ~30      |
+| Power Banks / Batteries      | 3        |
+| Smartphone                   | 1        |
+| Laptop/PC                    | 1        |
